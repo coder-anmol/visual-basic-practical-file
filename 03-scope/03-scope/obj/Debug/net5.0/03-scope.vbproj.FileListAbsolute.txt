@@ -1,0 +1,16 @@
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\bin\Debug\net5.0\03-scope.exe
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\bin\Debug\net5.0\03-scope.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\bin\Debug\net5.0\03-scope.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\bin\Debug\net5.0\03-scope.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\bin\Debug\net5.0\03-scope.dll
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\bin\Debug\net5.0\ref\03-scope.dll
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\bin\Debug\net5.0\03-scope.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\obj\Debug\net5.0\03-scope.vbproj.AssemblyReference.cache
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\obj\Debug\net5.0\03-scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\obj\Debug\net5.0\03-scope.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\obj\Debug\net5.0\03-scope.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\obj\Debug\net5.0\03-scope.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\obj\Debug\net5.0\03-scope.dll
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\obj\Debug\net5.0\ref\03-scope.dll
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\obj\Debug\net5.0\03-scope.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\03-scope\03-scope\obj\Debug\net5.0\03-scope.genruntimeconfig.cache

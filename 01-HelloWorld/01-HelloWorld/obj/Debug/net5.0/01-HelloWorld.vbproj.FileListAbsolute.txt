@@ -1,0 +1,16 @@
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\bin\Debug\net5.0\01-HelloWorld.exe
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\bin\Debug\net5.0\01-HelloWorld.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\bin\Debug\net5.0\01-HelloWorld.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\bin\Debug\net5.0\01-HelloWorld.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\bin\Debug\net5.0\01-HelloWorld.dll
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\bin\Debug\net5.0\ref\01-HelloWorld.dll
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\bin\Debug\net5.0\01-HelloWorld.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\obj\Debug\net5.0\01-HelloWorld.vbproj.AssemblyReference.cache
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\obj\Debug\net5.0\01-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\obj\Debug\net5.0\01-HelloWorld.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\obj\Debug\net5.0\01-HelloWorld.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\obj\Debug\net5.0\01-HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\obj\Debug\net5.0\01-HelloWorld.dll
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\obj\Debug\net5.0\ref\01-HelloWorld.dll
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\obj\Debug\net5.0\01-HelloWorld.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\01-HelloWorld\01-HelloWorld\obj\Debug\net5.0\01-HelloWorld.genruntimeconfig.cache

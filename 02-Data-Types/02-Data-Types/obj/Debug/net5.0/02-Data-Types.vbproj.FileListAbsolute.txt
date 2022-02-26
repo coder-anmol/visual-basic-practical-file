@@ -1,0 +1,15 @@
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\bin\Debug\net5.0\02-Data-Types.exe
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\bin\Debug\net5.0\02-Data-Types.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\bin\Debug\net5.0\02-Data-Types.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\bin\Debug\net5.0\02-Data-Types.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\bin\Debug\net5.0\02-Data-Types.dll
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\bin\Debug\net5.0\ref\02-Data-Types.dll
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\bin\Debug\net5.0\02-Data-Types.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\obj\Debug\net5.0\02-Data-Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\obj\Debug\net5.0\02-Data-Types.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\obj\Debug\net5.0\02-Data-Types.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\obj\Debug\net5.0\02-Data-Types.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\obj\Debug\net5.0\02-Data-Types.dll
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\obj\Debug\net5.0\ref\02-Data-Types.dll
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\obj\Debug\net5.0\02-Data-Types.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\02-Data-Types\02-Data-Types\obj\Debug\net5.0\02-Data-Types.genruntimeconfig.cache

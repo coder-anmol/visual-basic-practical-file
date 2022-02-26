@@ -1,0 +1,15 @@
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\bin\Debug\net5.0\05-Type-Conversion.exe
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\bin\Debug\net5.0\05-Type-Conversion.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\bin\Debug\net5.0\05-Type-Conversion.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\bin\Debug\net5.0\05-Type-Conversion.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\bin\Debug\net5.0\05-Type-Conversion.dll
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\bin\Debug\net5.0\ref\05-Type-Conversion.dll
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\bin\Debug\net5.0\05-Type-Conversion.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\obj\Debug\net5.0\05-Type-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\obj\Debug\net5.0\05-Type-Conversion.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\obj\Debug\net5.0\05-Type-Conversion.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\obj\Debug\net5.0\05-Type-Conversion.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\obj\Debug\net5.0\05-Type-Conversion.dll
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\obj\Debug\net5.0\ref\05-Type-Conversion.dll
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\obj\Debug\net5.0\05-Type-Conversion.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\05-Type-Conversion\05-Type-Conversion\obj\Debug\net5.0\05-Type-Conversion.genruntimeconfig.cache

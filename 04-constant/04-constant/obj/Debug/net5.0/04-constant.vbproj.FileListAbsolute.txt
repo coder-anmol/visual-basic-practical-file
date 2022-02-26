@@ -1,0 +1,15 @@
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\bin\Debug\net5.0\04-constant.exe
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\bin\Debug\net5.0\04-constant.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\bin\Debug\net5.0\04-constant.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\bin\Debug\net5.0\04-constant.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\bin\Debug\net5.0\04-constant.dll
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\bin\Debug\net5.0\ref\04-constant.dll
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\bin\Debug\net5.0\04-constant.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\obj\Debug\net5.0\04-constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\obj\Debug\net5.0\04-constant.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\obj\Debug\net5.0\04-constant.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\obj\Debug\net5.0\04-constant.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\obj\Debug\net5.0\04-constant.dll
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\obj\Debug\net5.0\ref\04-constant.dll
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\obj\Debug\net5.0\04-constant.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\04-constant\04-constant\obj\Debug\net5.0\04-constant.genruntimeconfig.cache

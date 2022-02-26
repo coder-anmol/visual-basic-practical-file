@@ -1,0 +1,16 @@
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\bin\Debug\net5.0\06-Operators.exe
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\bin\Debug\net5.0\06-Operators.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\bin\Debug\net5.0\06-Operators.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\bin\Debug\net5.0\06-Operators.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\bin\Debug\net5.0\06-Operators.dll
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\bin\Debug\net5.0\ref\06-Operators.dll
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\bin\Debug\net5.0\06-Operators.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\obj\Debug\net5.0\06-Operators.vbproj.AssemblyReference.cache
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\obj\Debug\net5.0\06-Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\obj\Debug\net5.0\06-Operators.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\obj\Debug\net5.0\06-Operators.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\obj\Debug\net5.0\06-Operators.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\obj\Debug\net5.0\06-Operators.dll
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\obj\Debug\net5.0\ref\06-Operators.dll
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\obj\Debug\net5.0\06-Operators.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\06-Operators\06-Operators\obj\Debug\net5.0\06-Operators.genruntimeconfig.cache

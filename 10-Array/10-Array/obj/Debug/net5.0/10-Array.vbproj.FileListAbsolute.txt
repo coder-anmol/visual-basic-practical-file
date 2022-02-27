@@ -1,0 +1,15 @@
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\bin\Debug\net5.0\10-Array.exe
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\bin\Debug\net5.0\10-Array.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\bin\Debug\net5.0\10-Array.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\bin\Debug\net5.0\10-Array.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\bin\Debug\net5.0\10-Array.dll
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\bin\Debug\net5.0\ref\10-Array.dll
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\bin\Debug\net5.0\10-Array.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\obj\Debug\net5.0\10-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\obj\Debug\net5.0\10-Array.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\obj\Debug\net5.0\10-Array.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\obj\Debug\net5.0\10-Array.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\obj\Debug\net5.0\10-Array.dll
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\obj\Debug\net5.0\ref\10-Array.dll
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\obj\Debug\net5.0\10-Array.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\10-Array\10-Array\obj\Debug\net5.0\10-Array.genruntimeconfig.cache

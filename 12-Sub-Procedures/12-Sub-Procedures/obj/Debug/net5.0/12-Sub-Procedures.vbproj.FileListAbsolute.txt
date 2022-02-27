@@ -1,0 +1,15 @@
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\bin\Debug\net5.0\12-Sub-Procedures.exe
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\bin\Debug\net5.0\12-Sub-Procedures.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\bin\Debug\net5.0\12-Sub-Procedures.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\bin\Debug\net5.0\12-Sub-Procedures.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\bin\Debug\net5.0\12-Sub-Procedures.dll
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\bin\Debug\net5.0\ref\12-Sub-Procedures.dll
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\bin\Debug\net5.0\12-Sub-Procedures.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\obj\Debug\net5.0\12-Sub-Procedures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\obj\Debug\net5.0\12-Sub-Procedures.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\obj\Debug\net5.0\12-Sub-Procedures.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\obj\Debug\net5.0\12-Sub-Procedures.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\obj\Debug\net5.0\12-Sub-Procedures.dll
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\obj\Debug\net5.0\ref\12-Sub-Procedures.dll
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\obj\Debug\net5.0\12-Sub-Procedures.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\12-Sub-Procedures\12-Sub-Procedures\obj\Debug\net5.0\12-Sub-Procedures.genruntimeconfig.cache

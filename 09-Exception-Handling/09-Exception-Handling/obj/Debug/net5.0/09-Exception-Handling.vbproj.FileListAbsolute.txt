@@ -1,0 +1,16 @@
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\bin\Debug\net5.0\09-Exception-Handling.exe
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\bin\Debug\net5.0\09-Exception-Handling.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\bin\Debug\net5.0\09-Exception-Handling.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\bin\Debug\net5.0\09-Exception-Handling.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\bin\Debug\net5.0\09-Exception-Handling.dll
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\bin\Debug\net5.0\ref\09-Exception-Handling.dll
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\bin\Debug\net5.0\09-Exception-Handling.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\obj\Debug\net5.0\09-Exception-Handling.vbproj.AssemblyReference.cache
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\obj\Debug\net5.0\09-Exception-Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\obj\Debug\net5.0\09-Exception-Handling.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\obj\Debug\net5.0\09-Exception-Handling.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\obj\Debug\net5.0\09-Exception-Handling.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\obj\Debug\net5.0\09-Exception-Handling.dll
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\obj\Debug\net5.0\ref\09-Exception-Handling.dll
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\obj\Debug\net5.0\09-Exception-Handling.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\09-Exception-Handling\09-Exception-Handling\obj\Debug\net5.0\09-Exception-Handling.genruntimeconfig.cache

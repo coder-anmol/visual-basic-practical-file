@@ -1,0 +1,16 @@
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\bin\Debug\net5.0\16-Class-And-Object.exe
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\bin\Debug\net5.0\16-Class-And-Object.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\bin\Debug\net5.0\16-Class-And-Object.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\bin\Debug\net5.0\16-Class-And-Object.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\bin\Debug\net5.0\16-Class-And-Object.dll
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\bin\Debug\net5.0\ref\16-Class-And-Object.dll
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\bin\Debug\net5.0\16-Class-And-Object.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\obj\Debug\net5.0\16-Class-And-Object.vbproj.AssemblyReference.cache
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\obj\Debug\net5.0\16-Class-And-Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\obj\Debug\net5.0\16-Class-And-Object.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\obj\Debug\net5.0\16-Class-And-Object.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\obj\Debug\net5.0\16-Class-And-Object.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\obj\Debug\net5.0\16-Class-And-Object.dll
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\obj\Debug\net5.0\ref\16-Class-And-Object.dll
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\obj\Debug\net5.0\16-Class-And-Object.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\16-Class-And-Object\16-Class-And-Object\obj\Debug\net5.0\16-Class-And-Object.genruntimeconfig.cache

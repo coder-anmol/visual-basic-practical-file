@@ -1,0 +1,15 @@
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\obj\Debug\net5.0\24-File-Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\obj\Debug\net5.0\24-File-Handling.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\obj\Debug\net5.0\24-File-Handling.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\obj\Debug\net5.0\24-File-Handling.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\bin\Debug\net5.0\24-File-Handling.exe
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\bin\Debug\net5.0\24-File-Handling.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\bin\Debug\net5.0\24-File-Handling.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\bin\Debug\net5.0\24-File-Handling.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\bin\Debug\net5.0\24-File-Handling.dll
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\bin\Debug\net5.0\ref\24-File-Handling.dll
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\bin\Debug\net5.0\24-File-Handling.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\obj\Debug\net5.0\24-File-Handling.dll
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\obj\Debug\net5.0\ref\24-File-Handling.dll
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\obj\Debug\net5.0\24-File-Handling.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\24-File-Handling\24-File-Handling\obj\Debug\net5.0\24-File-Handling.genruntimeconfig.cache

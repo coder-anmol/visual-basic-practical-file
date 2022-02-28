@@ -1,0 +1,15 @@
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\bin\Debug\net5.0\23-Interfaces.exe
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\bin\Debug\net5.0\23-Interfaces.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\bin\Debug\net5.0\23-Interfaces.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\bin\Debug\net5.0\23-Interfaces.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\bin\Debug\net5.0\23-Interfaces.dll
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\bin\Debug\net5.0\ref\23-Interfaces.dll
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\bin\Debug\net5.0\23-Interfaces.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\obj\Debug\net5.0\23-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\obj\Debug\net5.0\23-Interfaces.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\obj\Debug\net5.0\23-Interfaces.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\obj\Debug\net5.0\23-Interfaces.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\obj\Debug\net5.0\23-Interfaces.dll
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\obj\Debug\net5.0\ref\23-Interfaces.dll
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\obj\Debug\net5.0\23-Interfaces.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\23-Interfaces\23-Interfaces\obj\Debug\net5.0\23-Interfaces.genruntimeconfig.cache

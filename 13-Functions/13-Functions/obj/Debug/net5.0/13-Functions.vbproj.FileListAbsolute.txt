@@ -1,0 +1,15 @@
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\bin\Debug\net5.0\13-Functions.exe
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\bin\Debug\net5.0\13-Functions.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\bin\Debug\net5.0\13-Functions.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\bin\Debug\net5.0\13-Functions.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\bin\Debug\net5.0\13-Functions.dll
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\bin\Debug\net5.0\ref\13-Functions.dll
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\bin\Debug\net5.0\13-Functions.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\obj\Debug\net5.0\13-Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\obj\Debug\net5.0\13-Functions.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\obj\Debug\net5.0\13-Functions.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\obj\Debug\net5.0\13-Functions.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\obj\Debug\net5.0\13-Functions.dll
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\obj\Debug\net5.0\ref\13-Functions.dll
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\obj\Debug\net5.0\13-Functions.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\13-Functions\13-Functions\obj\Debug\net5.0\13-Functions.genruntimeconfig.cache

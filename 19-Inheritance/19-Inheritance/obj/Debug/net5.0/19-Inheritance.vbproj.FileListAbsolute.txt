@@ -1,0 +1,16 @@
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\bin\Debug\net5.0\19-Inheritance.exe
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\bin\Debug\net5.0\19-Inheritance.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\bin\Debug\net5.0\19-Inheritance.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\bin\Debug\net5.0\19-Inheritance.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\bin\Debug\net5.0\19-Inheritance.dll
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\bin\Debug\net5.0\ref\19-Inheritance.dll
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\bin\Debug\net5.0\19-Inheritance.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\obj\Debug\net5.0\19-Inheritance.vbproj.AssemblyReference.cache
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\obj\Debug\net5.0\19-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\obj\Debug\net5.0\19-Inheritance.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\obj\Debug\net5.0\19-Inheritance.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\obj\Debug\net5.0\19-Inheritance.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\obj\Debug\net5.0\19-Inheritance.dll
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\obj\Debug\net5.0\ref\19-Inheritance.dll
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\obj\Debug\net5.0\19-Inheritance.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\19-Inheritance\19-Inheritance\obj\Debug\net5.0\19-Inheritance.genruntimeconfig.cache

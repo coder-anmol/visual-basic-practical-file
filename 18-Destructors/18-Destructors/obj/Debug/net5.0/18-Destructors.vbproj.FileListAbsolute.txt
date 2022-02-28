@@ -1,0 +1,16 @@
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\bin\Debug\net5.0\18-Destructors.exe
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\bin\Debug\net5.0\18-Destructors.deps.json
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\bin\Debug\net5.0\18-Destructors.runtimeconfig.json
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\bin\Debug\net5.0\18-Destructors.runtimeconfig.dev.json
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\bin\Debug\net5.0\18-Destructors.dll
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\bin\Debug\net5.0\ref\18-Destructors.dll
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\bin\Debug\net5.0\18-Destructors.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\obj\Debug\net5.0\18-Destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\obj\Debug\net5.0\18-Destructors.AssemblyInfoInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\obj\Debug\net5.0\18-Destructors.AssemblyInfo.vb
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\obj\Debug\net5.0\18-Destructors.vbproj.CoreCompileInputs.cache
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\obj\Debug\net5.0\18-Destructors.dll
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\obj\Debug\net5.0\ref\18-Destructors.dll
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\obj\Debug\net5.0\18-Destructors.pdb
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\obj\Debug\net5.0\18-Destructors.genruntimeconfig.cache
+C:\Users\anmol\Desktop\VB.NET Practical\18-Destructors\18-Destructors\obj\Debug\net5.0\18-Destructors.vbproj.AssemblyReference.cache
